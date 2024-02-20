@@ -1,0 +1,18 @@
+.filters {
+    background-color: #333333;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.location,
+.amenities {
+    height: 100%;
+    width: 25%;
+    position: relative;
+   
